@@ -80,6 +80,9 @@
 然后直接在Intellij中打开这个项目
 
 
+### 4.0项目github开源地址
+	https://github.com/nisang/emchat-server-java
+
 
 
 
